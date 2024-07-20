@@ -1,6 +1,6 @@
 # Automatic Generation of Fashion Images using Prompting in Generative Machine Learning Models
 
-This repository contains the code and data associated with the ECCV 2024 Workshop paper titled **"Automatic Generation of Fashion Images using Prompting in Generative Machine Learning Models"**.
+This repository contains the code and data associated with the paper titled **"Automatic Generation of Fashion Images using Prompting in Generative Machine Learning Models"**.
 
 ## Abstract
 
