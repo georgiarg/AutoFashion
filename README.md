@@ -15,6 +15,10 @@ The advent of artificial intelligence has contributed to a groundbreaking transf
 - [Contributing](#contributing)
 - [Citation](#citation)
 
+## Introduction
+
+Fashion is a dynamic and influential industry that not only reflects cultural and societal trends but also drives economic growth on a global scale. The integration of artificial intelligence (AI) within the fashion industry has revolutionized various aspects, from design and manufacturing to marketing and retail. This paper seeks to develop an automated process for generating fashion images that align with a specified style, match a particular occasion, and suit an individual wearer.
+
 ## Dataset
 
 The dataset used in this study, "fashion-style-instruct," includes style recommendations based on input triplets of body type, personal clothing style, and event context. The dataset is processed to focus on body types and occasions, creating final triplets for various types and occasions.
