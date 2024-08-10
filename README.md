@@ -43,10 +43,14 @@ We welcome contributions from the community. If you find any issues or have sugg
 If you use this code in your research, please cite our paper:
 
 ```
-@inproceedings{automaticfashion2024,
-  title={Automatic Generation of Fashion Images using Prompting in Generative Machine Learning Models},
-  author={Argyrou Georgia and Dimitriou Angeliki and Lymperaiou Maria and Filandrianos Georgios and Stamou Georgios},
-  year={2024}
+@misc{argyrou2024automaticgenerationfashionimages,
+      title={Automatic Generation of Fashion Images using Prompting in Generative Machine Learning Models}, 
+      author={Georgia Argyrou and Angeliki Dimitriou and Maria Lymperaiou and Giorgos Filandrianos and Giorgos Stamou},
+      year={2024},
+      eprint={2407.14944},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.14944}, 
 }
 
 ```
